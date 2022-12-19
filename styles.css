@@ -126,6 +126,7 @@ article p {
 }
 
 .join h2 {
+  font-size: 36px;
   margin-top: 0px;
 }
 
@@ -133,9 +134,19 @@ article p {
   color: #4b4b4b;
 }
 
-.join form input {
+form input {
   width: 350px;
   height: 35px;
+  margin: 20px 0;
+  padding: 10px 20px;
   text-align: center;
   border-radius: 50px;
+  border: 1px solid white;
+}
+
+footer {
+  background-color: #111111;
+  color: white;
+  padding: 10px;
+  text-align: center;
 }
